@@ -2,11 +2,6 @@
 
 Welcome to the **E-Commerce Recommendation System** repository. This project implements a hybrid recommendation system for an online retail dataset, incorporating multiple recommendation techniques like popularity-based, item-based, and user-based collaborative filtering to build a robust recommendation engine. 
 
-This README provides:
-- A complete overview of the repository.
-- Instructions for setup and usage.
-- A breakdown of each recommendation technique employed in this project.
-
 ---
 
 ## About the Project
